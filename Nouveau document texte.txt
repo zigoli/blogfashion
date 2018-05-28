@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>La mode avec Isa</title>
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  </head>
+  <body>
+    <header class="conntainer">
+
+      <div class="row">
+        <div class="col-sm-4">
+            <h1>NYFW</h1>
+        </div>
+        <div class="col-sm-8 text-right">
+          <nav>
+            <p>A propos</p>
+            <p>la fashion</p>
+            <p>contact</p>
+          </nav>
+        </div>
+      </div>
+    </header>
+    <section class="container" id="profile">
+        <a href="#contact"><img src="https://i0.wp.com/deviens-developpeur.com/wp-content/uploads/2018/04/profile.jpg?w=200" alt=""></a>
+        <h3>par Isabelle Rodriguez | il y a 1 jour</h3>
+    </section>
+<section class="container" id="post1">
+  <div class="row">
+    <h1>Un guide à la NYFW</h1>
+  </div>
+  <div class="row">
+    <div class="col-sm-6">
+        <img src="https://i0.wp.com/deviens-developpeur.com/wp-content/uploads/2018/04/image-one.jpeg?w=200" alt="">
+    </div>
+    <div class="col-sm-6">
+      <p>La  <a href="https://en.wikipedia.org/wiki/New_York_Fashion_Week" target="_blank">NYFW</a> peut être à la fois incroyablement
+         amusant et incroyablement accablant, surtout
+         si vous n’y êtes jamais allé, heureusement,
+         je suis ici pour vous donner un guide d’initié
+         et faire de votre première expérience une expérience
+         agréable en prenant mes trucs et astuces, et en suivant
+         votre intestin, vous aurez une expérience inoubliable!</p>
+    </div>
+  </div>
+
+</section>
+<section class="container" id="post2">
+    <div class="row">
+    <h2>Obtenir des billets pour les spectacles</h2>
+    </div>
+  <div class="row">
+    <div class="col-sm-6">
+      <p>Si vous êtes chanceux ou connecté, vous pouvez
+        obtenir une invitation, sans l’étiquette de prix.
+        Mais je n’ai pas été si chanceux ou connecté mes
+        deux premières années, donc je suis là pour vous
+        aider. important pour vous et faire un calendrier
+        et c’est un Biggie: SET uN BUDGET Si vous inquiéter
+        de souffler votre argent tout le temps, vous ne serez
+        pas vous amuser vérifier alors les prix, les jours et
+        les temps et prioriser les concepteurs vous..
+        Enfin, achetez vos billets et excitez-vous!  </p>
+    </div>
+    <div class="col-sm-6">
+      <img src="https://i1.wp.com/deviens-developpeur.com/wp-content/uploads/2018/04/image-three.jpeg?w=200" alt="">
+    </div>
+  </div>
+</section>
+<section class="container" id="post3">
+<div class="row">
+  <h2>S’habiller pour les spectacles</h2>
+</div>
+<div class="row">
+      <img src="https://i2.wp.com/deviens-developpeur.com/wp-content/uploads/2018/04/image-two.jpeg?w=200" alt="">
+</div>
+<div class="row">
+  <p>Soyez toujours fidèle à votre propre style, si vous ne le
+     faites pas, vous serez mal à l’aise tout le temps et ça se
+     verra.N’oubliez pas, NYFW est de s’exprimer et d’accepter ce
+     que les designers ont choisi d’exprimer à travers leurs nouvelles
+     lignes De plus, il est important de porter des chaussures confortables
+     toute la journée, mais vous voulez bien paraître, mais vous serez debout
+     toute la journée.</p>
+</div>
+</section>
+
+<section class="container" id="footer">
+  <div class="row">
+    <div class="col-sm-4 ">
+      <h4>Contenu associé</h4>
+    </div>
+    <div class="col-sm-6">
+      <ul>
+        <li>Comment styler les jeans de son copain</li>
+        <li>Quand imprimer devient trop</li>
+        <li>Les nouvelles tendances</li>
+        <li>La couleur de l’été</li>
+      </ul>
+    </div>
+  </div>
+  <div class="row">
+    <p> <strong>email:</strong> isa@fashionblog.com | <strong>Téléphone:</strong>  917-555-1098 | <strong>adresse:</strong>  371 284th St, New York, NY, 10001</p>
+    <ul class="col-sm-8">
+      <li class="col-sm-1"><img src="twitter.svg" alt=""></li>
+      <li class="col-sm-1"><img src="facebook.svg" alt=""></li>
+      <li class="col-sm-1"><img src="instagram.svg" alt=""></li>
+      <li class="col-sm-1"><img src="medium.svg" alt=""></li>
+    </ul>
+  </div>
+</section>
+
+
+
+  </body>
+</html>
